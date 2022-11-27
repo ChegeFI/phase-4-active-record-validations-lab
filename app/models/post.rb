@@ -10,3 +10,5 @@ def clickbait_y?
         errors.add(:title, "must be clickbait_y")
     end
 end
+
+end
